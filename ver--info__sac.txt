@@ -1,0 +1,7 @@
+10 January, 2018				5:09:03 PM
+
+ver__1  --10Jan18 , Wed
+this is like before first__commit.
+the very First--time, some project was just started.
+3 files & 1 folder
+folder is empty.
